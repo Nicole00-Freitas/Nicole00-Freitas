@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="130" src="https://github.com/user-attachments/assets/42e1c5e6-b5fc-4190-b1de-dd6110c99d8c"  />
+  <img height="340" src="https://github.com/user-attachments/assets/5cf75cb2-82cd-4c49-a8f0-ea9a5c9cee68"  />
 </div>
 
 ###
