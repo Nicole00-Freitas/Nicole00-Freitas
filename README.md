@@ -10,6 +10,12 @@
 
 ###
 
+<div align="center">
+  <img height="130" src="https://github.com/user-attachments/assets/42e1c5e6-b5fc-4190-b1de-dd6110c99d8c"  />
+</div>
+
+###
+
 <h2 align="left">🖥️Tecnologias</h2>
 
 ###
