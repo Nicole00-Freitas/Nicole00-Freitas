@@ -16,6 +16,12 @@
 
 ###
 
+<br clear="both">
+
+<p align="center">"Até que o principal não seja feito, tudo é distração."</p>
+
+###
+
 <h2 align="left">🖥️Tecnologias</h2>
 
 ###
@@ -43,6 +49,10 @@
 ###
 
 <h2 align="left">🌎Contatos</h2>
+
+###
+
+<p align="left">Cada linha de código, um novo aprendizado. Vamos evoluir juntos?</p>
 
 ###
 
