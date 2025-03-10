@@ -36,6 +36,18 @@
 
 ###
 
+<h2 align="left">🗂️Projetos</h2>
+
+###
+
+<p align="left">-Portfólio https://portfolio-kappa-lac-72.vercel.app/</p>
+
+###
+
+<p align="left">-Amigo Secreto https://github.com/Nicole00-Freitas/Amigo_Secreto</p>
+
+###
+
 <h2 align="left">📈 Estatísticas</h2>
 
 ###
